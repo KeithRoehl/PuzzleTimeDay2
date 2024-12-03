@@ -12,8 +12,4 @@ Welcome to the Alien Loop Interceptor puzzle! Can you outsmart the self-healing 
 - You can only inject **one (1) line of code**.
 - You cannot directly modify or disable the `safeguard`.
 
-## Example
-Inject this one-liner (if you can figure it out!):
-```python
-alien_loop = lambda: print("Game over")
 
